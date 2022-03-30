@@ -1,0 +1,6 @@
+![SetUp](https://user-images.githubusercontent.com/53655502/160947597-6a645c39-bb9f-456f-8414-ccf183ef4537.JPG)
+![Alien Defeated](https://user-images.githubusercontent.com/53655502/160947598-0c7947de-6208-49b4-b6df-23559201a5ff.JPG)
+![AliensMove](https://user-images.githubusercontent.com/53655502/160947599-ba03ad81-5084-4e72-8558-a5f4023cd2ad.JPG)
+![HP bar drops](https://user-images.githubusercontent.com/53655502/160947600-af148e66-31c1-4298-8dc2-5d67c5a6a7b7.JPG)
+![Jump](https://user-images.githubusercontent.com/53655502/160947602-3c75e8be-5abb-4c92-9198-39c442203871.JPG)
+![Laser fired](https://user-images.githubusercontent.com/53655502/160947603-1f637a9f-346d-497b-ad55-f4593c567b3e.JPG)
